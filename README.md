@@ -27,11 +27,10 @@ for this purpose.
 
 
 ### Output:
-![image](https://github.com/Prethiveerajan/WDM_EXP9/assets/94233064/c7d54d31-cc9c-4553-a4b8-d5779d028e78)
-![image](https://github.com/Prethiveerajan/WDM_EXP9/assets/94233064/e87fdf33-542c-402a-9761-e97ac11af90c)
-![image](https://github.com/Prethiveerajan/WDM_EXP9/assets/94233064/a0ba703f-fd15-478a-bd02-bab1b91183a0)
 
-
+!<img src="https://github.com/kaviya2839/WDM_EXP9/assets/120553351/4d5b4a15-5b30-4bcb-b8c5-ffdad977bcd1" width="500" height="300" />
+!<img src="https://github.com/kaviya2839/WDM_EXP9/assets/120553351/dcb52979-187d-47ed-95cf-232201a9103b" width="500" height="300" />
+!<img src="https://github.com/kaviya2839/WDM_EXP9/assets/120553351/59b5bf3b-78ac-492d-80c2-71873b33aecb" width="500" height="300" />
 
 ### Result:
 
